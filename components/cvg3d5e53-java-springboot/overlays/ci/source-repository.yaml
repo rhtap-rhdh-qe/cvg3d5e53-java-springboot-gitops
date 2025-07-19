@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cvg3d5e53-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cvg3d5e53-java-springboot
